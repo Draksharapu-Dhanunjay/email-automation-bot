@@ -128,16 +128,3 @@ Users must comply with email service policies and avoid spam practices.
 
 MIT License
 ```
-
----
-
-## ✅ Why This README Works Well
-
-- Clear problem statement
-- Real-world relevance
-- Shows automation + backend skills
-- Demonstrates Git hygiene & security awareness
-- Recruiter-friendly and interview-ready
-
----
-
